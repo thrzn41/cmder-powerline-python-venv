@@ -2,8 +2,7 @@
 
 Cmder powerline for python venv and Conda env.
 
-![Screenshot](https://raw.githubusercontent.com/thrzn41/cmder-powerline-python-venv/script-and-readme/images/screenshot01.png)
-
+![Screenshot](./images/screenshot01.png)
 
 ## Setup
 
